@@ -56,9 +56,10 @@ Diffusion-based image processing can be applied to:
 - computer vision
 - image denoising
 - feature extraction
-- 
+  
 ## Repository Structure
 
+```text
 pde-image-processing/
 │── pde-image-processing.ipynb
 │── README.md
