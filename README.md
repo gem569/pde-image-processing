@@ -63,5 +63,5 @@ Diffusion-based image processing can be applied to:
 pde-image-processing/
 │── pde-image-processing.ipynb
 │── README.md
-│── data/
+│── input/
 │   └── city_skyline.JPG   # input image used for diffusion experiments
