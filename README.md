@@ -6,7 +6,7 @@ This project explores image smoothing through **partial differential equations (
 
 Image diffusion methods treat an image as a continuous surface whose intensity values evolve over time.
 
-- **Isotropic diffusion** applies uniform smoothing across the image, reducing noise but often blurring important edges.
+- **Isotropic diffusion** follows the classical heat equation, which smooths the image uniformly over time.
 - **Anisotropic diffusion** adjusts the smoothing process according to local image gradients, reducing noise while preserving significant edge structures.
 
 This notebook demonstrates how diffusion-based methods can be used to balance:
